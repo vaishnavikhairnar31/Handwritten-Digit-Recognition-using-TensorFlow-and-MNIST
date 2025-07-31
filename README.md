@@ -3,11 +3,10 @@ A deep learning model using TensorFlow to recognize handwritten digits from the 
 
 This project is a beginner-friendly deep learning application that **classifies handwritten digits (0–9)** using the **MNIST dataset** and a **neural network** built with **TensorFlow/Keras**.
 
-This project is a beginner-friendly deep learning application that **classifies handwritten digits (0–9)** using the **MNIST dataset** and a **neural network** built with **TensorFlow/Keras**.
 
 ---
 
-## 📌 What This Project Does
+## 📌 Project 
 
 - Loads and preprocesses the MNIST digit dataset.
 - Builds a simple neural network model.
